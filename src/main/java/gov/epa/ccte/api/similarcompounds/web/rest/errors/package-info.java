@@ -1,0 +1,1 @@
+package gov.epa.ccte.api.similarcompounds.web.rest.errors;
